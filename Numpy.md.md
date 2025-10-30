@@ -1,8 +1,6 @@
 
 # 🧠 NumPy Complete Cheat Sheet for Data Analysis & Gen AI
 
-This file provides **all important NumPy syntax** with **inputs, outputs, and explanations**.
-
 ---
 
 ## 1️⃣ Importing NumPy
